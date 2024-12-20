@@ -51,8 +51,8 @@ EMAIL_HOST = 'smtp.gmail.com'  # For example, 'smtp.gmail.com' for Gmail
 EMAIL_PORT = 587  # Use 587 for TLS, or 465 for SSL
 EMAIL_USE_TLS = True  # Use True for TLS, False for SSL
 EMAIL_USE_SSL = False  # Only one of TLS or SSL should be True
-EMAIL_HOST_USER = 'm.r.saksham12545@gmail.com'
-EMAIL_HOST_PASSWORD = 'tjlu hggl fiyk sjrq'  # Be careful with sensitive info
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''  # Be careful with sensitive info
 
 
 
